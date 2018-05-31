@@ -1,11 +1,11 @@
-# Simple Grid [![Build Status](https://travis-ci.org/alegorico/my-simplegrid.svg?branch=master)](https://travis-ci.org/alegorico/my-simplegrid)
+# Simple Grid 
 A lightweight, responsive CSS grid  
 
 Based by Zach Cole developer
 
 ## Bower install
 ```shell
-    bower install my-simplegrid
+    bower install simple-grid
 ```
 
 ## Simple Grid and Simple Code
